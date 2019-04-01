@@ -9,3 +9,5 @@ Setup to run locally:
   3. ```npm install```
   
   4. ```npm start```
+  
+  5. Open a browser and go connect to localhost:3000
