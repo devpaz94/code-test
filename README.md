@@ -1,5 +1,7 @@
 # BUMP code test
 
+Video: https://photos.app.goo.gl/rBa8KmEUso35crKUA
+
 Setup to run locally:
 
   1. Clone this repo ```git clone https://github.com/devpaz94/code-test.git```
