@@ -4,7 +4,7 @@ Setup to run locally:
 
   1. Clone this repo ```git clone https://github.com/devpaz94/code-test.git```
 
-  2. ```cd code test```
+  2. ```cd code-test```
   
   3. ```npm install```
   
